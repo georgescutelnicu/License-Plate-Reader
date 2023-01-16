@@ -27,4 +27,4 @@ Confidence Score:
 <br>
 <img src="extras/confidence.png" width="600">
 
-### [DEMO]
+### [[DEMO]](https://huggingface.co/spaces/georgescutelnicu/license-plate-reader)
