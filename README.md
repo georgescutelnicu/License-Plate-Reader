@@ -3,7 +3,7 @@ Identifies the license plate, cuts and displays it, and extracts the text from i
 An image with higher resolution and clearer license plate will have a better accuracy.<br>
 [The model was trained on european car plates]
 
-<img src="extras/header.jpg" width="450">
+<img src="extras/header.jpg" width="400">
 
 ### Requirements:
 * [NumPy](http://www.numpy.org/)
@@ -25,6 +25,6 @@ Confidence Score:
 <img src="extras/confidence.png" width="600">
 
 ### Demo
-<a href="[https://huggingface.co/spaces/georgescutelnicu/MangaTranslator](https://huggingface.co/spaces/georgescutelnicu/license-plate-reader)">
+<a href="https://huggingface.co/spaces/georgescutelnicu/license-plate-reader">
     <img src="https://img.shields.io/badge/Deployed%20on%20Hugging%20Face%20with%20Gradio-FFA500"></img>
 </a>
